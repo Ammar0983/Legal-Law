@@ -1,0 +1,46 @@
+.about-section{
+    /* border: 2px solid yellowgreen; */
+    height: 650px;
+    display: flex;
+}
+.about-box{
+    /* border: 2px solid lightcoral; */
+    height: 100%;
+}
+.about-img{
+    width: 45%;
+}
+.team-4{
+    position: relative;
+    left: 20px;
+    top: 70px;
+}
+.disc {
+    width: 55%;
+}
+h3{
+    color: #080808;
+    font-size: 50px;
+    /* text-align: center; */
+    padding-top: 80px;
+    top: 200px;
+    right: 150px;
+}
+.disc p{
+    font-size: x-large;
+    position: relative;
+    text-align: justify;
+    color: rgb(151, 151, 125);
+    
+}
+.phara-1{
+   top: 125px;
+}
+.phara-2{
+ 
+    top: 140px;
+}
+.sing{
+    position: relative;
+    top: 200px;
+}

@@ -1,0 +1,54 @@
+h1{
+    text-align: center;
+    /* text-decoration: 2px solid underline black; */
+    margin-top: 20px;
+}
+.teamphara{
+    position: relative;
+    left: 370px;
+    text-align: center;
+    font-size: 25px;
+    width: 50%;
+    margin-top: 20px;
+}
+.bigbox{
+    height: 700px;
+    width: 100%;
+    /* border: 2px solid  red; */
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.box{
+    height: 70%;
+    width: 30%;
+    /* border: 2px solid blue; */
+    margin-top: 30px;
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+.comment-box{
+    height: 50px;
+    width: 200px;
+    /* border: 2px solid rgb(0, 255, 0); */
+    order: 1;
+}
+h2{
+    text-align: center;
+}
+p{
+   text-align: center;
+   color: rgb(151, 151, 125);
+}
+.teambox-1{
+    background-image: url(./team-1.jpg);
+}
+.teambox-2{
+    background-image: url(./team-2.jpg);
+}
+.teambox-3{
+    background-image: url(./team-3.jpg);
+}
+
